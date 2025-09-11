@@ -11,7 +11,7 @@ The goal of this repo is to:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 ├── notebooks/          # Jupyter notebooks with step-by-step practice
@@ -23,7 +23,7 @@ The goal of this repo is to:
 
 ---
 
-## 🛠️ Topics Covered
+## Topics Covered
 
 - **NumPy**
 
@@ -43,7 +43,7 @@ The goal of this repo is to:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -71,7 +71,7 @@ Navigate to the `notebooks/` folder and open any file to start exploring.
 
 ---
 
-## 📘 Resources I’m Following
+## Resources I’m Following
 
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [NumPy Documentation](https://numpy.org/doc/)
@@ -80,7 +80,7 @@ Navigate to the `notebooks/` folder and open any file to start exploring.
 
 ---
 
-## ✨ Goals
+## Goals
 
 - Build a solid foundation in data wrangling.
 - Prepare for real-world data science and ML projects.
@@ -88,6 +88,6 @@ Navigate to the `notebooks/` folder and open any file to start exploring.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 This repo is mainly for my personal practice, but suggestions, feedback, or learning resources are always welcome!
